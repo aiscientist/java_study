@@ -1,3 +1,5 @@
+package algo;
+
 class Kriii {
     public static void main (String args[])
     {
